@@ -1,1 +1,3 @@
 # TestTask-Capgemini
+
+Michał Krupa
